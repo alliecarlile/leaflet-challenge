@@ -62,3 +62,17 @@ Add layer controls to your map.
 
 ![earthquakemap](https://user-images.githubusercontent.com/105824024/208499282-9c450fc5-6fe7-42d4-a02c-bf281508a002.png)
 
+
+**Methods used:**
+
+HTML
+
+CSS
+
+JavaScript
+
+Leaflet.js
+
+API keys
+
+
