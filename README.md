@@ -4,7 +4,7 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 For this project, I developed a way to visualize USGS earthquake data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-<a href="https://alliecarlile.github.io/leaflet-challenge.html">here</a>
+<a href="https://alliecarlile.github.io/usgs-earthquake-map.html">here</a>
 
 
 This project was completed using the following workflow:
